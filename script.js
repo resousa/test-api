@@ -1,6 +1,6 @@
 
 $.ajax({
-    url: "http://api.eventful.com/json/events/search?keywords=books&location=San+Diego&date=Future&app_key=BLG28fCFksPJcL7s",
+    url: "https://api.eventful.com/json/events/search?keywords=books&location=Seattle&date=Future&app_key=BLG28fCFksPJcL7s",
 
     method: 'GET'
    })
